@@ -1,5 +1,8 @@
 {
-  "include": ["./src/**/*.ts", "./src/**/*.tsx"],
+  "include": [
+    "./src/**/*.ts",
+    "./src/**/*.tsx"
+  ],
   "compilerOptions": {
     "strict": true,
     "target": "ES2020",
@@ -10,8 +13,13 @@
     "sourceMap": true,
     "inlineSources": true,
     "outDir": "lib",
-    "lib": ["dom", "esnext"],
-    "types": ["node"],
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "types": [
+      "node"
+    ],
     "jsx": "react"
   }
 }
