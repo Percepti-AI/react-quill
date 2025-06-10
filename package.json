@@ -1,15 +1,15 @@
 {
-  "name": "react-quill-new",
-  "version": "3.4.6",
+  "name": "react-quilly",
+  "version": "2.0.3",
   "description": "The Quill rich-text editor as a React component.",
-  "author": "zenoamaro <zenoamaro@gmail.com>, VaguelySerious <mittgfu@gmail.com>",
+  "author": "zenoamaro <zenoamaro@gmail.com>, VaguelySerious <mittgfu@gmail.com>, Nathan <nathan@percepti.ai>",
   "license": "MIT",
-  "homepage": "https://github.com/VaguelySerious/react-quill",
-  "bugs": "https://github.com/VaguelySerious/react-quill/issues",
+  "homepage": "https://github.com/Percepti-AI/react-quill",
+  "bugs": "https://github.com/Percepti-AI/react-quill/issues",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VaguelySerious/react-quill.git"
+    "url": "git+https://github.com/Percepti-AI/react-quill.git"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
